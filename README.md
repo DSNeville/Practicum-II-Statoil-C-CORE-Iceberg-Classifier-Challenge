@@ -47,7 +47,7 @@ It is described in the competition:
 	Id – Iceberg ID
 	Band_1, & Band_2  - 75x75 pixel values in a list
 	Inc_angle – The incidence angle that the picture was taken at
-  Is_iceberg – 1 = Yes, 0 = No
+	Is_iceberg – 1 = Yes, 0 = No
 
 Timeline:
 
@@ -63,11 +63,11 @@ While I mentioned the use of Keras above, I chose to go with PyTorch because I w
 
 The stack:
 
-*Python3.5
-*Ubuntu16.4
-*PyTorch
-*TensorFlow
-*Jupyter Notebook
+Python3.5
+Ubuntu16.4
+PyTorch
+TensorFlow
+Jupyter Notebook
 
 If the project were to have been broken up correctly it would be as follows:
 
@@ -81,4 +81,14 @@ G.  Data exploration and image manipulation
 H.  Exploring neural networks with Pytorch
 I.  Testing pre-processing
 J.  Model Selection
+
+#### Exploration
+
+Original Images:
+
+Modified Images:
+
+#### Convolutional Neural Network
+
+#### Results
 
