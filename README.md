@@ -58,15 +58,15 @@ Week 8 – Prepare Presentation and Submit Results
 
 ### Project Retrospective
 
-This project turned out to be a great learning exercise, but did go as planned in terms of timeline.  This project lead to what felt like several small projects or segments.  In the end, we used PyTorch to delivered a convolutional neural network model with some preprocessing.  While I mentioned the use of Keras above, I chose to go with PyTorch because I wanted experience using a GPU.  
+This project turned out to be a great learning exercise, but did go as planned in terms of timeline.  This project lead to what felt like several small projects or segments.  In the end, we used PyTorch to delivere a convolutional neural network model with some preprocessing.  While I mentioned the use of Keras above, I chose to go with PyTorch because I wanted experience using a GPU.  
 
 The stack:
 
-Python3.5
-Ubuntu16.4
-PyTorch
-TensorFlow
-Jupyter Notebook
+*Python3.5
+*Ubuntu16.04
+*PyTorch
+*TensorFlow
+*Jupyter Notebook
 
 If the project were to have been broken up correctly it would be as follows:
 
