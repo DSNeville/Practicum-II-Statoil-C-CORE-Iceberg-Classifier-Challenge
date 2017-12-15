@@ -91,21 +91,21 @@ Original Images:
 
 Icebergs -
 
-![alt text]( https://github.com/DSNeville/Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/blob/master/Images/IcebergB1B2.png )
+![alt text](https://github.com/DSNeville/Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/blob/master/Images/IcebergB1B2.png )
 
 Ships - 
 
-![alt text](ttps://github.com/DSNeville/Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/blob/master/Images/ShipsB1B2.png )
+![alt text](https://github.com/DSNeville/Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/blob/master/Images/ShipsB1B2.png )
 
 A deeper look - in 3D:
 
 Iceberg -
 
-![alt text](ttps://github.com/DSNeville/Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/blob/master/Images/Iceberg3d.png )
+![alt text](https://github.com/DSNeville/Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/blob/master/Images/Iceberg3d.png )
 
 Ship - 
 
-![alt text](ttps://github.com/DSNeville/Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/blob/master/Images/Ship3d.png )
+![alt text](https://github.com/DSNeville/Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/blob/master/Images/Ship3d.png )
 
 
 
