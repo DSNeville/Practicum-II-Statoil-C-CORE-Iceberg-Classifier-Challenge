@@ -108,8 +108,22 @@ Ship -
 ![alt text](https://github.com/DSNeville/Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/blob/master/Images/Ship3d.png )
 
 
+From here I had an understanding of the data and how to look at images, so I went to the next logical step of transforming what I had into something a little bit more clear.  This is where I started playing with convolutions - passing arrays over my bands to alter the data in a way that would help highlight the focus of the pictures.
+Below are a few of the gradients:
+
+![alt text](https://github.com/DSNeville/Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/blob/master/Images/Gradients.png)
+
+One example of these is an edge detection gradient -
+
+![alt text](https://github.com/DSNeville/Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/blob/master/Images/EdgeDetection.png)
+
+After a while, I then tried mixing them together or layering them.  This is mostly in attempt to learn how these work, as they are also in the neural network model that we get to below.
 
 Modified Images:
+
+![alt text](https://github.com/DSNeville/Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/blob/master/Images/MultipleConv.png)
+
+![alt text](https://github.com/DSNeville/Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/blob/master/Images/MultipleConv2.png)
 
 #### Convolutional Neural Network
 
