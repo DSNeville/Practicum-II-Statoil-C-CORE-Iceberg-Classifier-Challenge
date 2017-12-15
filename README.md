@@ -62,24 +62,24 @@ This project turned out to be a great learning exercise, but did go as planned i
 
 The stack:
 
-*Python3.5
-*Ubuntu16.04
-*PyTorch
-*TensorFlow
-*Jupyter Notebook
+* Python3.5
+* Ubuntu16.04
+* PyTorch
+* TensorFlow
+* Jupyter Notebook
 
 If the project were to have been broken up correctly it would be as follows:
 
-A.  Image classification research
-B.  Installing a second hard drive for a Linux distro
-C.  Installing and configuring Ubunutu with Cuda support
-D.  Installing Python/Tensorflow/PyTorch 
-E.  Learning and writing image processing techniques
-F.  Learning Convolutions and Convolutional Neural Networks
-G.  Data exploration and image manipulation
-H.  Exploring neural networks with Pytorch
-I.  Testing pre-processing
-J.  Model Selection
+A. Image classification research
+B. Installing a second hard drive for a Linux distro
+C. Installing and configuring Ubunutu with Cuda support
+D. Installing Python/Tensorflow/PyTorch 
+E. Learning and writing image processing techniques
+F. Learning Convolutions and Convolutional Neural Networks
+G. Data exploration and image manipulation
+H. Exploring neural networks with Pytorch
+I. Testing pre-processing
+J. Model Selection
 
 #### Exploration
 
