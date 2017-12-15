@@ -121,6 +121,8 @@ After a while, I then tried mixing them together or layering them.  This is most
 
 Modified Images:
 
+The left two images are ships and the right two are icebergs -
+
 ![alt text](https://github.com/DSNeville/Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/blob/master/Images/MultipleConv.png)
 
 ![alt text](https://github.com/DSNeville/Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/blob/master/Images/MultipleConv2.png)
