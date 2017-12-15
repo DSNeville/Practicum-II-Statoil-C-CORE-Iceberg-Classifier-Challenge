@@ -129,5 +129,15 @@ The left two images are ships and the right two are icebergs -
 
 #### Convolutional Neural Network
 
+![alt text](https://github.com/DSNeville/Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/blob/master/Images/ModelSummary.png)
+
 #### Results
 
+Below is an example of an output from the model testing against a validation set.
+
+![alt text](https://github.com/DSNeville/Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/blob/master/Images/ValidationLoss.png)
+
+The model performs reasonably, but not that great compared to the competition leaderboard.
+Conceptually there were many very intersting methods that I did not get a chance to try.  Transforming the images and making predictions takes quite a bit of time on these larger data files.  Realistically, if I had more powerful hardware, things might go more smoothly as I would be able to iterate more quickly through alterations.  I am using an Nvidia 970, and there are many upgrades that would improve performance on the market.
+I would have liked to try methods that look into color filters and more established techniques.  In this I was building gradients and kernels just based off my understanding, but as the project went on, my understanding continued to grow.  This would have been a much different project if I were to start it now.
+Reflecting on PyTorch - I found it rather complicated at first, but got used to it by the end.  The one thing that was lacking was documentation.  It is harder to learn with less examples and in this case, PyTorch seems to be less utilized than other neural network frameworks.  
