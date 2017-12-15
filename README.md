@@ -85,27 +85,27 @@ J.  Model Selection
 
 The data:
 
-![alt text]( Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/Images/Data.png )
+![alt text]( https://github.com/DSNeville/Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/Images/Data.png )
 
 Original Images:
 
 Icebergs -
 
-![alt text]( Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/Images/IcebergB1B2.png )
+![alt text]( https://github.com/DSNeville/Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/Images/IcebergB1B2.png )
 
 Ships - 
 
-![alt text]( Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/Images/ShipsB1B2.png )
+![alt text]( https://github.com/DSNeville/Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/Images/ShipsB1B2.png )
 
 A deeper look - in 3D:
 
 Iceberg -
 
-![alt text]( Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/Images/Iceberg3d.png )
+![alt text]( https://github.com/DSNeville/Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/Images/Iceberg3d.png )
 
 Ship - 
 
-![alt text]( Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/Images/Ship3d.png )
+![alt text]( https://github.com/DSNeville/Practicum-II-Statoil-C-CORE-Iceberg-Classifier-Challenge/Images/Ship3d.png )
 
 
 
