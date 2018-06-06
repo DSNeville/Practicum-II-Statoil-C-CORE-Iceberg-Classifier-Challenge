@@ -33,10 +33,7 @@ kernels on Kaggle, with many explorations into how to analyze photos.  I will li
 my actual approach here, but some places to start would be to get familiar with Keras, a deep learning library that can deal with 
 images.  Keras runs over Tensorflow, another deep learning tool that has methods for dealing with image classification.
 
-The size of this data set is rather large for a school project, so I would like to also experiment in using a GPU to process this data.  For that segment, Pytorch seem like a good place to start.
-In terms of classification and analysis, I am not certain where I will end up, but I know that if I could utilize logistic 
-regression, it would get me the type of “answer” that I am looking for.  Other than that, I will need to explore which types 
-of algorithms work for image classification.  
+The size of this data set is rather large for a school project, so I would like to also experiment in using a GPU to process this data.  For that segment, Pytorch seem like a good place to start. 
 
 Data:
 
@@ -58,7 +55,7 @@ Week 8 – Prepare Presentation and Submit Results
 
 ### Project Retrospective
 
-This project turned out to be a great learning exercise, but did go as planned in terms of timeline.  This project lead to what felt like several small projects or segments.  In the end, we used PyTorch to delivere a convolutional neural network model with some preprocessing.  While I mentioned the use of Keras above, I chose to go with PyTorch because I wanted experience using a GPU.  
+This project turned out to be a great learning exercise, but did go as planned in terms of timeline.  This project lead to what felt like several small projects or segments.  In the end, we used PyTorch to deliver a convolutional neural network with some preprocessing.  While I mentioned the use of Keras above, I chose to go with PyTorch because I wanted experience using a GPU.  (At the time of writing, I thought that was the only option)  
 
 The stack:
 
